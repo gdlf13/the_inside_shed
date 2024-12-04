@@ -1,4 +1,4 @@
-<img src="images/Designer.png" alt="The Inside Shed Banner" width="600">
+![The Inside Shed Banner](images/Designer.png)
 
 # The Inside Shed
 
