@@ -15,6 +15,8 @@ The Inside Shed is more than just a collection of projects; it's a space where c
 - **Insights and Reflections**: Introspective pieces on the role of psychology in AI, and how these technologies can align with human values.
 - **Crafted and Half-Crafted Ideas**: Exploratory concepts, some complete and others in various stages of development, serving as starting points for the next iteration and inviting further thought and experimentation.
 
-> *"Sheds are built to hold tools, but the true value lies in what you create in them."*
+> *"Sheds are built to hold tools, but the true value lies in what you create with them."*
 
+![The Inside Shed Banner](images/Designer.png)
 — **BITCXO**
+
