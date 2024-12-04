@@ -1,3 +1,5 @@
+![The Inside Shed Banner](images/Designer.png)
+
 # The Inside Shed
 
 Welcome to The Inside Shed — a digital space where I share my journey through the evolving landscape of Artificial Intelligence. Here, I document my experiments, insights, and learnings as I shape and mold AI systems, turning abstract ideas into tangible applications.
@@ -17,6 +19,5 @@ The Inside Shed is more than just a collection of projects; it's a space where c
 
 > *"Sheds are built to hold tools, but the true value lies in what you create with them."*
 
-![The Inside Shed Banner](images/Designer.png)
 — **BITCXO**
 
