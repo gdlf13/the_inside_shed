@@ -1,4 +1,3 @@
-![The Inside Shed Banner](Designer.png)
 
 # The Inside Shed
 
